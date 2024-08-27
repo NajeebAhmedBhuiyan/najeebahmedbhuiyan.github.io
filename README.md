@@ -73,7 +73,7 @@ Apart from these, I love literature, world cinema, songs, and cats.
 - [Hungry Snake](https://github.com/nabq5272B/Snake-Game-)
 
 ## Extra Curricular Activities
-- [Writings on Philosophy, Literature, and other topics](quareeb.blogspot.com)
+- [Writings on Philosophy, Literature, and other topics](http://quareeb.blogspot.com/)
 - [3rd Position, Group-A, Exim Bank-Kishor Alo Anti-Drug Essay Competition 2015](https://www.thedailystar.net/shout/exim-bank-%E2%80%93-kishor-alo-anti-drug-essay-competition-2015-105808)
 
 
