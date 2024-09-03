@@ -1,4 +1,4 @@
-# TinyML Enthusiast & ML/DL Practitioner 
+# TinyML Enthusiast & Data Science Practitioner 
 I'm an undergrad student from Bangladesh, studying Mechatronics Engineering at Rajshahi University of Engineering & Technology (RUET). In addition to being focused on my studies, I have a keen interest in TinyML, Robotics, Data Analysis, Machine Learning, and Deep Learning.
 
 Apart from these, I love literature, world cinema, songs, and cats.
