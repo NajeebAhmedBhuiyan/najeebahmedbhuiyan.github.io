@@ -1,5 +1,5 @@
-# TinyML Enthusiast & Data Science Practitioner 
-I am an undergraduate student from Bangladesh, currently pursuing a degree in Mechatronics Engineering at Rajshahi University of Engineering & Technology (RUET). Alongside my academic studies, I am deeply passionate about TinyML, Robotics, and Edge Computing. I have also embarked on my journey as a novice researcher, contributing to these areas ([See my works here](https://scholar.google.com/citations?user=1iClFREAAAAJ&hl=en&oi=ao)).  
+# TinyML & Robotics Enthusiast | Data Science Practitioner
+I am an undergraduate student from Bangladesh, currently pursuing a degree in Mechatronics Engineering at Rajshahi University of Engineering & Technology (RUET). Alongside my academic studies, I am deeply passionate about TinyML, Robotics, Edge Computing and also Data Science. I have also embarked on my journey as a novice researcher, contributing to these areas ([See my works here](https://scholar.google.com/citations?user=1iClFREAAAAJ&hl=en&oi=ao)).  
 
 Apart from these, I love literature, world cinema, songs, and cats.
 
@@ -49,7 +49,7 @@ Apart from these, I love literature, world cinema, songs, and cats.
 
 ## Papers & Projects 
 ### Papers
-- [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122)[Video](https://youtu.be/yKH9bV34ULM?si=AZiF45g5OK_iQEAH)
+- [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122) [Video](https://youtu.be/yKH9bV34ULM?si=AZiF45g5OK_iQEAH)
 
 ### Model Compression Works
 - [Model Compression by Quantization using PyTorch](https://github.com/NajeebAhmedBhuiyan/Model-Compression-Quantization)
