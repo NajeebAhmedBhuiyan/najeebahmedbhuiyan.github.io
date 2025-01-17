@@ -1,17 +1,19 @@
 # TinyML Enthusiast & Data Science Practitioner 
-I'm an undergrad student from Bangladesh, studying Mechatronics Engineering at Rajshahi University of Engineering & Technology (RUET). In addition to being focused on my studies, I have a keen interest in TinyML, Robotics, Data Analysis, Machine Learning, and Deep Learning.
+I am an undergraduate student from Bangladesh, currently pursuing a degree in Mechatronics Engineering at Rajshahi University of Engineering & Technology (RUET). Alongside my academic studies, I am deeply passionate about TinyML, Robotics, and Edge Computing. I have also embarked on my journey as a novice researcher, contributing to these areas ([See my works here](https://scholar.google.com/citations?user=1iClFREAAAAJ&hl=en&oi=ao)).  
 
 Apart from these, I love literature, world cinema, songs, and cats.
 
 ## Stay Connected:  
-[LinkedIn](https://www.linkedin.com/in/najeeb-ahmed-bhuiyan-456048221/) | [GitHub](https://github.com/nabq5272B) | [Kaggle](https://www.kaggle.com/najeebahmadbhuiyan) | [Blog](http://quareeb.blogspot.com/)
+[LinkedIn](https://www.linkedin.com/in/najeeb-ahmed-bhuiyan-456048221/) | [Google Scholar](https://scholar.google.com/citations?user=1iClFREAAAAJ&hl=en&oi=ao) | [GitHub](https://github.com/nabq5272B) | [Kaggle](https://www.kaggle.com/najeebahmadbhuiyan) | [Blog](http://quareeb.blogspot.com/) 
 
 ## Technical Skills:
 - **Programming Languages:** Python, C/C++.
+- **Robot Operating System (ROS):** ros2-jazzy, ros2-controls, gazebo, RViz, MoveIt.
 - **ML/DL:** PyTorch, Tensorflow, FastAPI.
 - **Data Analysis:** Numpy, Pandas, Matplotlib, Seaborn, Plotly.
 - **Microcontroller Boards:** Arduino 33 BLE, Arduino UNO R3.
-- **Sensors & Actuators:** IR Sensor, LM35, DHT22, HC-SR04, MQ-2, MQ-7, DHT11, BMP180, ADXL345, MPU6050, Servo Motor, DC Motor, Stepper Motor, Relay Module, LED, Buzzer, Solenoid, Piezoelectric Actuator, Vibration Motor, Fan etc.  
+- **Sensors & Actuators:** IR Sensor, LM35, DHT22, HC-SR04, MQ-2, MQ-7, DHT11, BMP180, ADXL345, MPU6050, Servo Motor, DC Motor, Stepper Motor, Relay Module, LED, Buzzer, Solenoid, Piezoelectric Actuator, Vibration Motor, Fan etc.
+- **Automation:** PLC Programming (Mitsubishi, Siemens).
 - **Softwares:** MATLAB/Simulink, Proteus, AutoCAD.  
 
 ## Education
@@ -19,8 +21,13 @@ Apart from these, I love literature, world cinema, songs, and cats.
 - Higher Secondary School Certificate (HSC) Examination, Science | Notre Dame College, Dhaka (_2017 - 2019_)	 			        		
 
 ## Work Experience
+**Lead, Software & Autonomous Sub-Team, Team Ogrodoot -অগ্রদূত (_September 2024 - Present_)**
+- Leading the software and autonomous works for the team.
+- Works include mostly preparing the Mars Rover of the team for the autonomous tasks.
+- Contribution in leading the team into the final round of IRC'25 and semifinal round of IRDC'25 and still the competition is not end for us!
+
 **Technical Secretary (Software) @ Robotic Society of RUET (RSR) (_May 2024 - Present_)**
-- Planning to work on the Mars Rover by Team Ogrodoot, which is a group of space enthusiasts undergraduate students from RUET and a wing of RSR.
+- Working on the Mars Rover by Team Ogrodoot, which is a group of space enthusiasts undergraduate students from RUET and a wing of RSR.
 - Collaborated with external mentors and experts to stay updated with the latest software technologies and methodologies.
 - Organized coding workshops and training sessions for society members to enhance their programming skills.
 
@@ -40,9 +47,9 @@ Apart from these, I love literature, world cinema, songs, and cats.
 - Managed the Website and all the Social Media handles of TEDxRUET
 - Worked with the speakers during the Main Event. 
 
-## Works & Projects 
-### Robotics Project
-- [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (Soon to be published in IEEE Xplore)](https://youtu.be/yKH9bV34ULM?si=AZiF45g5OK_iQEAH)
+## Papers & Projects 
+### Papers
+- [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122)[Video](https://youtu.be/yKH9bV34ULM?si=AZiF45g5OK_iQEAH)
 
 ### Model Compression Works
 - [Model Compression by Quantization using PyTorch](https://github.com/NajeebAhmedBhuiyan/Model-Compression-Quantization)
