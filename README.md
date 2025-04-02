@@ -4,7 +4,7 @@ I am an undergraduate student from Bangladesh, currently pursuing a degree in Me
 Apart from these, I love literature, world cinema, songs, and cats.
 
 ## Stay Connected:  
-[LinkedIn](https://www.linkedin.com/in/najeeb-ahmed-bhuiyan-456048221/) | [Google Scholar](https://scholar.google.com/citations?user=1iClFREAAAAJ&hl=en&oi=ao) | [GitHub](https://github.com/nabq5272B) | [Kaggle](https://www.kaggle.com/najeebahmadbhuiyan) | [Blog](http://quareeb.blogspot.com/) 
+[LinkedIn](https://www.linkedin.com/in/najeeb-ahmed-bhuiyan-456048221/) | [Google Scholar](https://scholar.google.com/citations?user=1iClFREAAAAJ&hl=en&oi=ao) | [GitHub](https://github.com/NajeebAhmedBhuiyan) | [Kaggle](https://www.kaggle.com/najeebahmadbhuiyan) | [Blog](http://quareeb.blogspot.com/) 
 
 ## Technical Skills:
 - **Programming Languages:** Python, C/C++.
