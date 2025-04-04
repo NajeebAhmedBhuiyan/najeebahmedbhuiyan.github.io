@@ -1,5 +1,5 @@
-# Mechatronics Engineer | TinyML & Robotics Enthusiast
-I am an undergraduate student from Bangladesh, currently pursuing a degree in Mechatronics Engineering at the Rajshahi University of Engineering & Technology (RUET). Alongside my academic studies, I am deeply passionate about TinyML and Robotics, with additional experience in Data Science. For my undergraduate thesis, I engineered a bimanual gesture interface for a ROS-based mobile manipulator, integrating Edge AI and sensor fusion to enhance human-robot interaction. Previously, I authored a technical paper on an autonomous firefighting robot, which was published by [IEEE](https://ieeexplore.ieee.org/abstract/document/10800122).
+# Mechatronics Engineer | Edge-AI & Robotics Enthusiast
+I am an undergraduate student from Bangladesh, currently pursuing a degree in Mechatronics Engineering at the Rajshahi University of Engineering & Technology (RUET). Alongside my academic studies, I am deeply passionate about Edge-AI and Robotics, with additional experience in Data Science. For my undergraduate thesis, I engineered a bimanual gesture interface for a ROS-based mobile manipulator, integrating Edge AI and sensor fusion to enhance human-robot interaction. Previously, I authored a technical paper on an autonomous firefighting robot, which was published by [IEEE](https://ieeexplore.ieee.org/abstract/document/10800122).
 
 Apart from these, I love literature, world cinema, songs, and cats.
 
