@@ -1,5 +1,5 @@
 # Mechatronics Engineer | TinyML & Robotics Enthusiast | Data Science Practitioner
-I am an undergraduate student from Bangladesh, currently pursuing a degree in Mechatronics Engineering at Rajshahi University of Engineering & Technology (RUET). Alongside my academic studies, I am deeply passionate about TinyML, Robotics, Edge Computing and also Data Science. I have also embarked on my journey as a novice researcher, contributing to these areas ([See my works here](https://scholar.google.com/citations?user=1iClFREAAAAJ&hl=en&oi=ao)).  
+I am an undergraduate student from Bangladesh, currently pursuing a degree in Mechatronics Engineering at the Rajshahi University of Engineering & Technology (RUET). Alongside my academic studies, I am deeply passionate about TinyML and Robotics, with additional experience in Data Science. For my undergraduate thesis, I engineered a bimanual gesture interface for a ROS-based mobile manipulator, integrating Edge AI and sensor fusion to enhance human-robot interaction. Previously, I authored a technical paper on an autonomous firefighting robot, which was published by [IEEE](https://ieeexplore.ieee.org/abstract/document/10800122).
 
 Apart from these, I love literature, world cinema, songs, and cats.
 
@@ -11,7 +11,7 @@ Apart from these, I love literature, world cinema, songs, and cats.
 - **Robot Operating System (ROS):** ros2-jazzy, ros2-controls, gazebo, RViz, MoveIt.
 - **ML/DL:** PyTorch, Tensorflow, FastAPI.
 - **Data Analysis:** Numpy, Pandas, Matplotlib, Seaborn, Plotly.
-- **Microcontroller Boards:** Arduino 33 BLE, Arduino UNO R3.
+- **Microcontroller & Development Boards:** Raspberry Pi 5, Arduino 33 BLE Sense Board, Raspberry Pi Pico, Arduino UNO R3, Arduino Nano etc.
 - **Sensors & Actuators:** IR Sensor, LM35, DHT22, HC-SR04, MQ-2, MQ-7, DHT11, BMP180, ADXL345, MPU6050, Servo Motor, DC Motor, Stepper Motor, Relay Module, LED, Buzzer, Solenoid, Piezoelectric Actuator, Vibration Motor, Fan etc.
 - **Automation:** PLC Programming (Mitsubishi, Siemens).
 - **Softwares:** MATLAB/Simulink, Proteus, AutoCAD.  
@@ -24,7 +24,7 @@ Apart from these, I love literature, world cinema, songs, and cats.
 **Lead, Software & Autonomous Sub-Team, Team Ogrodoot -অগ্রদূত (_September 2024 - Present_)**
 - Leading the software and autonomous works for the team.
 - Works include mostly preparing the Mars Rover of the team for the autonomous tasks.
-- Contribution in leading the team into the final round of IRC'25 and semifinal round of IRDC'25 and still the competition is not end for us!
+- Contribution in leading the team into the final round of IRC'25 and semifinal round of IRDC'25!
 
 **Technical Secretary (Software) @ Robotic Society of RUET (RSR) (_May 2024 - Present_)**
 - Working on the Mars Rover by Team Ogrodoot, which is a group of space enthusiasts undergraduate students from RUET and a wing of RSR.
@@ -51,6 +51,10 @@ Apart from these, I love literature, world cinema, songs, and cats.
 ### Papers
 - [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122) [Video](https://youtu.be/yKH9bV34ULM?si=AZiF45g5OK_iQEAH)
 
+### ROS & TinyML
+- [Gesture-Based Manipulator Control in ROS with TinyML](https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Manipulator-Control-in-ROS-with-TinyML) | [LinkedIn Post](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-tinyml-ros2-activity-7313981830523715584-blI4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g)
+- [Gesture Based Mobile Robot Control in ROS](https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Mobile-Robot-Control-in-ROS) | [LinkedIn Post](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-ros2-sensorfusion-activity-7313978474568810496-6vjQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g)
+  
 ### Model Compression Works
 - [Model Compression by Quantization using PyTorch](https://github.com/NajeebAhmedBhuiyan/Model-Compression-Quantization)
 
