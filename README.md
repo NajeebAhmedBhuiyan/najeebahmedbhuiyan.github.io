@@ -1,5 +1,9 @@
 # Mechatronics Engineer | Edge-AI & Robotics Enthusiast
-I am an undergraduate student from Bangladesh, currently pursuing a degree in Mechatronics Engineering at the Rajshahi University of Engineering & Technology (RUET). Alongside my academic studies, I am deeply passionate about Edge-AI and Robotics, with additional experience in Data Science. For my undergraduate thesis, I engineered a bimanual gesture interface for a ROS-based mobile manipulator, integrating Edge AI and sensor fusion to enhance human-robot interaction. Previously, I authored a technical paper on an autonomous firefighting robot, which was published by [IEEE](https://ieeexplore.ieee.org/abstract/document/10800122).
+I am an undergraduate Mechatronics Engineering student at Rajshahi University of Engineering & Technology (RUET), Bangladesh, with a passion for Edge-AI, robotics, and safe autonomous systems. 
+
+For my thesis, I developed a bimanual gesture interface for a ROS-based mobile manipulator, integrating TinyML and sensor fusion to enhance human-robot interaction. This work was featured in [ROS News of the Week](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_ros2-robotics-gesturecontrol-activity-7316816763814395904-A5pv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g), and was reposted by [Open Robotics on LinkedIn](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-ros2-ros-ugcPost-7313978392318554113-9TOL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g).
+
+Previously, I authored a technical paper on an autonomous firefighting robot, published by [IEEE](https://ieeexplore.ieee.org/abstract/document/10800122). I also serve as the (Software & Autonomous Sub-Team Lead)[https://www.facebook.com/share/p/192aWFTc1S/] for (Team Ogrodoot)[https://www.facebook.com/ogrodoot.ruet], RUET’s Mars Rover Team, where I oversee the control and autonomous systems of our rover. Our team qualified for the (IRC 2025 finals)[https://www.dhakapost.com/campus/325313] and the (IRDC 2025 semifinals)[https://www.facebook.com/share/p/16P7kMC7jk/].
 
 Apart from these, I love literature, world cinema, songs, and cats.
 
@@ -86,6 +90,7 @@ Apart from these, I love literature, world cinema, songs, and cats.
 
 ## Extra Curricular Activities
 - [Writings on Philosophy, Literature, and other topics](http://quareeb.blogspot.com/)
+- [Working with Bangla Academy](https://www.facebook.com/share/p/1Bgm6S4k1r/)
 - [3rd Position, Group-A, Exim Bank-Kishor Alo Anti-Drug Essay Competition 2015](https://www.thedailystar.net/shout/exim-bank-%E2%80%93-kishor-alo-anti-drug-essay-competition-2015-105808)
 
 
