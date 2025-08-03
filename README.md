@@ -21,7 +21,7 @@ Apart from these, I love literature, world cinema, songs, and cats.
 - **Softwares:** MATLAB/Simulink, Proteus, AutoCAD.  
 
 ## Education
-- B.Sc.Engg., Mechatronics Engineering | Rajshahi University of Engineering & Technology (RUET) (_2020 - Present_)								       		
+- B.Sc.Engg., Mechatronics Engineering | Rajshahi University of Engineering & Technology (RUET) (_2020 - 2025_)								       		
 - Higher Secondary School Certificate (HSC) Examination, Science | Notre Dame College, Dhaka (_2017 - 2019_)	 			        		
 
 ## Work Experience
