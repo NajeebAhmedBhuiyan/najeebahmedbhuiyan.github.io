@@ -25,13 +25,13 @@ Apart from these, I love literature, world cinema, songs, and cats.
 - Higher Secondary School Certificate (HSC) Examination, Science | Notre Dame College, Dhaka (_2017 - 2019_)	 			        		
 
 ## Work Experience
-**Lead, Software & Autonomous Sub-Team, Team Ogrodoot -অগ্রদূত (_September 2024 - Present_)**
+**Lead, Software & Autonomous Sub-Team, Team Ogrodoot -অগ্রদূত (_September 2024 - July 2025_)**
 - Leading the software and autonomous works for the team.
 - Works include mostly preparing the Mars Rover of the team for the autonomous tasks.
 - Contribution in leading the team into the final round of IRC'25 and semifinal round of IRDC'25!
 - Preparing for the upcoming ERC'25 and ARC'25.
 
-**Technical Secretary (Software) @ Robotic Society of RUET (RSR) (_May 2024 - Present_)**
+**Technical Secretary (Software) @ Robotic Society of RUET (RSR) (_May 2024 - July 2025_)**
 - Working on the Mars Rover by Team Ogrodoot, which is a group of space enthusiasts undergraduate students from RUET and a wing of RSR.
 - Collaborated with external mentors and experts to stay updated with the latest software technologies and methodologies.
 - Organized coding workshops and training sessions for society members to enhance their programming skills.
