@@ -59,7 +59,10 @@ Apart from these, I love literature, world cinema, songs, and cats.
 ### ROS & TinyML
 - [Gesture-Based Manipulator Control in ROS with TinyML](https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Manipulator-Control-in-ROS-with-TinyML) | [LinkedIn Post](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-tinyml-ros2-activity-7313981830523715584-blI4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g)
 - [Gesture Based Mobile Robot Control in ROS](https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Mobile-Robot-Control-in-ROS) | [LinkedIn Post](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-ros2-sensorfusion-activity-7313978474568810496-6vjQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g)
-  
+
+### Robotic Vision & Depth Perception
+- [*[Work-In-Progress]* EdgeDepth: A super-compact object detector and depth estimator for MCUs](https://github.com/NajeebAhmedBhuiyan/EdgeDepth-Model)
+
 ### Model Compression Works
 - [Model Compression by Quantization using PyTorch](https://github.com/NajeebAhmedBhuiyan/Model-Compression-Quantization)
 
