@@ -1,4 +1,4 @@
-# Mechatronics Engineer | Edge-AI & Robotics Enthusiast
+# Mechatronics Engineering Graduate | Edge-AI & Robotics Enthusiast
 I am a recent B.Sc.Engg. graduate in Mechatronics Engineering from Rajshahi University of Engineering & Technology (RUET), Bangladesh, with a passion for Edge-AI, robotics, and autonomous systems.
 
 For my undergrad thesis, I developed a bimanual gesture interface for a ROS-based mobile manipulator, integrating TinyML and sensor fusion to enhance human-robot interaction. This work got included in [ROS News of the Week](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_ros2-robotics-gesturecontrol-activity-7316816763814395904-A5pv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g), and was reposted by [Open Robotics on LinkedIn](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-ros2-ros-ugcPost-7313978392318554113-9TOL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g).
@@ -55,10 +55,14 @@ Apart from these, I love literature, world cinema, songs, and cats.
 ## Papers & Projects 
 ### Papers
 - [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122) [Video](https://youtu.be/yKH9bV34ULM?si=AZiF45g5OK_iQEAH)
+- [[*Under Review*] A Systematic Review of Hardware and Software Optimization Strategies for Mobile Device Efficiency (**Journal: Chip; Q1; IF:7.1; CS: 7.0 Publisher: Elsevier**)](https://www.sciencedirect.com/journal/chip)
 
 ### ROS & TinyML
 - [Gesture-Based Manipulator Control in ROS with TinyML](https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Manipulator-Control-in-ROS-with-TinyML) | [LinkedIn Post](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-tinyml-ros2-activity-7313981830523715584-blI4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g)
 - [Gesture Based Mobile Robot Control in ROS](https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Mobile-Robot-Control-in-ROS) | [LinkedIn Post](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-ros2-sensorfusion-activity-7313978474568810496-6vjQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g)
+
+### Legged Robot
+- [*[Work-In-Progress]* Quadruped Robot with Vision-Based Navigation and Control](https://github.com/NajeebAhmedBhuiyan/Legged-Robot-Arduino-Codes)
 
 ### Robotic Vision & Depth Perception
 - [*[Work-In-Progress]* EdgeDepth: A super-compact object detector and depth estimator for MCUs](https://github.com/NajeebAhmedBhuiyan/EdgeDepth-Model)
