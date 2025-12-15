@@ -1,5 +1,5 @@
 # Mechatronics Engineering Graduate | Edge-AI & HCR Enthusiast
-I'm a B.Sc.Engg. graduate in Mechatronics Engineering from Rajshahi University of Engineering & Technology (RUET), Bangladesh, deeply passionate about Edge-AI (TinyML on microcontrollers) and Human-Centered Robotics (intuitive interfaces for seamless robot control).
+I'm a B.Sc.Engg. graduate in Mechatronics Engineering from Rajshahi University of Engineering & Technology (RUET), Bangladesh, deeply passionate about [Edge-AI](https://www.ibm.com/think/topics/edge-ai) and [Human-Centered Robotics (HCR)](https://www.colorado.edu/program/robotics/research/human-centered-robotics).
 
 My research spans embedded gesture and voice recognition for teleoperation, lightweight vision models for edge devices, autonomous navigation in rovers and quadrupeds, and applications in rehabilitation robotics and disaster response. I've authored/co-authored papers in venues like IEEE conferences, Elsevier journals, and arXiv (submitted/accepted).
 
