@@ -1,10 +1,11 @@
-# Mechatronics Engineering Graduate | Edge-AI & Robotics Enthusiast
-I am a recent B.Sc.Engg. graduate in Mechatronics Engineering from Rajshahi University of Engineering & Technology (RUET), Bangladesh, with a passion for Edge-AI, robotics, and autonomous systems.
+# Mechatronics Engineering Graduate | Edge-AI & HCR Enthusiast
+I'm a recent B.Sc.Engg. graduate in Mechatronics Engineering from Rajshahi University of Engineering & Technology (RUET), Bangladesh, deeply passionate about Edge-AI (TinyML on microcontrollers) and Human-Centered Robotics (intuitive interfaces for seamless robot control).
+
+My research spans embedded gesture and voice recognition for teleoperation, lightweight vision models for edge devices, autonomous navigation in rovers and quadrupeds, and applications in rehabilitation robotics and disaster response. I've authored/co-authored papers in venues like IEEE conferences, Elsevier journals, and arXiv (submitted/accepted).
 
 For my undergrad thesis, I developed a bimanual gesture interface for a ROS-based mobile manipulator, integrating TinyML and sensor fusion to enhance human-robot interaction. This work got included in [ROS News of the Week](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_ros2-robotics-gesturecontrol-activity-7316816763814395904-A5pv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g), and was reposted by [Open Robotics on LinkedIn](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-ros2-ros-ugcPost-7313978392318554113-9TOL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g).
 
-Previously, I authored a technical paper on an autonomous firefighting robot, published by [IEEE](https://ieeexplore.ieee.org/abstract/document/10800122) and a review paper is currently under review at [Chip](https://www.sciencedirect.com/journal/chip) [Publisher: Elsevier; Q1; IF: 7.1; CS: 7.0]. I also served as the [Software & Autonomous Sub-Team Lead](https://www.facebook.com/share/p/192aWFTc1S/) for [Team Ogrodoot](https://www.facebook.com/ogrodoot.ruet), RUET’s Mars Rover Team, where I oversaw the control and autonomous systems of our rover. Our team qualified for the [IRC 2025 finals](https://www.dhakapost.com/campus/325313) and the [IRDC 2025 semifinals](https://www.facebook.com/share/p/16P7kMC7jk/).
-
+I also served as the [Software & Autonomous Sub-Team Lead](https://www.facebook.com/share/p/192aWFTc1S/) for [Team Ogrodoot](https://www.facebook.com/ogrodoot.ruet), RUET’s Mars Rover Team, where I oversaw the control and autonomous systems of our rover. Our team qualified for the [IRC 2025 finals](https://www.dhakapost.com/campus/325313) and the [IRDC 2025 semifinals](https://www.facebook.com/share/p/16P7kMC7jk/). At the Robotic Society of RUET (RSR), I held roles as Technical Secretary (Software) and IT Manager.
 
 Apart from these, I love literature, world cinema, songs, and cats.
 
@@ -21,8 +22,8 @@ Apart from these, I love literature, world cinema, songs, and cats.
 - **Softwares:** MATLAB/Simulink, Proteus, AutoCAD.  
 
 ## Education
-- B.Sc.Engg., Mechatronics Engineering | Rajshahi University of Engineering & Technology (RUET) (_2020 - 2025_)								       		
-- Higher Secondary School Certificate (HSC) Examination, Science | Notre Dame College, Dhaka (_2017 - 2019_)	 			        		
+- B.Sc.Engg., Mechatronics Engineering *[CGPA: 3.73/4.00 (First Class, 6th, & Vice-Chancellor's List Award)]*| Rajshahi University of Engineering & Technology (RUET) (_2020 - 2025_)								       		
+- Higher Secondary School Certificate (HSC) Examination, Science *[GPA: 5.00/5.00 (Dhaka Board Scholarship)]* | Notre Dame College, Dhaka (_2017 - 2019_)	 			        		
 
 ## Work Experience
 **Lead, Software & Autonomous Sub-Team, Team Ogrodoot -অগ্রদূত (_September 2024 - July 2025_)**
@@ -54,15 +55,22 @@ Apart from these, I love literature, world cinema, songs, and cats.
 
 ## Papers & Projects 
 ### Papers
-- [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122) [Video](https://youtu.be/yKH9bV34ULM?si=AZiF45g5OK_iQEAH)
-- [[*Under Review*] A Systematic Review of Hardware and Software Optimization Strategies for Mobile Device Efficiency (**Journal: Chip; Q1; IF:7.1; CS: 7.0 Publisher: Elsevier**)](https://www.sciencedirect.com/journal/chip)
+- [A Bimanual Gesture Interface for ROS-Based Mobile Manipulators Using TinyML and Sensor Fusion (**Publisher: arXiv**)](https://arxiv.org/abs/2509.19521) 
+- [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**IEEE PEEAICON 2024; Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122)
+- [A Comprehensive Review of Hardware and Software Optimization Strategies for Efficient Mobile Computing (**Journal: Microprocessors and Microsystems; Publisher: Elsevier**)](https://www.sciencedirect.com/journal/microprocessors-and-microsystems) [*Submitted*]
+- [Advances in Control Strategies for Rehabilitation Robotics: Methodologies, Clinical Trends, and Case Study (**Journal: Biomimetic Intelligence and Robotics; Publisher: Elsevier**)](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics) [*Submitted*]
+- [Voice-Driven Teleoperation of Wheelchair-Mounted Robotic Arms Using MFCC and a Quantized Lightweight CNN (**IEEE RAAICON 2025; Publisher: IEEE**)](https://raaicon.org/) [*Accepted*]
+- [Hierarchical Vision-Controlled Quadruped Robot for Autonomous Human Detection and Localization in Disaster Response (**IEEE ICCIT 2025; Publisher: IEEE**)](https://iccit.org.bd/2025/) [*Accepted*]
+- [Remote Teleoperation of an Anthropomorphic Robotic Hand with Cloud-Enabled Wearable Sensing and Lightweight MLP (**IEEE BECITHCON 2025; Publisher: IEEE**)](https://becithcon.org/2025/) [*Accepted*]
 
 ### ROS & TinyML
 - [Gesture-Based Manipulator Control in ROS with TinyML](https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Manipulator-Control-in-ROS-with-TinyML) | [LinkedIn Post](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-tinyml-ros2-activity-7313981830523715584-blI4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g)
 - [Gesture Based Mobile Robot Control in ROS](https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Mobile-Robot-Control-in-ROS) | [LinkedIn Post](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-ros2-sensorfusion-activity-7313978474568810496-6vjQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g)
+- [Sinusoidal Feedforward Gait Generation for a Bipedal Robot](https://github.com/NajeebAhmedBhuiyan/Bipedal-Rehab-Robot)
+
 
 ### Legged Robot
-- [*[Work-In-Progress]* Quadruped Robot with Vision-Based Navigation and Control](https://github.com/NajeebAhmedBhuiyan/Legged-Robot-Arduino-Codes)
+- [Quadruped Robot with Vision-Based Navigation and Control](https://github.com/NajeebAhmedBhuiyan/Legged-Robot-Arduino-Codes)
 
 ### Robotic Vision & Depth Perception
 - [*[Work-In-Progress]* EdgeDepth: A super-compact object detector and depth estimator for MCUs](https://github.com/NajeebAhmedBhuiyan/EdgeDepth-Model)
