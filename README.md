@@ -59,7 +59,7 @@ Apart from these, I love literature, world cinema, songs, and cats.
 ### Papers
 - [A Bimanual Gesture Interface for ROS-Based Mobile Manipulators Using TinyML and Sensor Fusion (**Publisher: arXiv**)](https://arxiv.org/abs/2509.19521) 
 - [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**IEEE PEEAICON 2024; Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122)
-- [A Comprehensive Review of Hardware and Software Optimization Strategies for Efficient Mobile Computing (**Journal: Microprocessors and Microsystems; Publisher: Elsevier**)](https://www.sciencedirect.com/journal/microprocessors-and-microsystems) [*Submitted*]
+- [A Comprehensive Review of Hardware and Software Optimization Strategies for Efficient Mobile Computing (**Journal: Pervasive and Mobile Computing; Publisher: Elsevier**)](https://www.sciencedirect.com/journal/pervasive-and-mobile-computing) [*Under Review*]
 - [Advances in Control Strategies for Rehabilitation Robotics: Methodologies, Clinical Trends, and Case Study (**Journal: Biomimetic Intelligence and Robotics; Publisher: Elsevier**)](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics) [*Submitted*]
 - [Voice-Driven Teleoperation of Wheelchair-Mounted Robotic Arms Using MFCC and a Quantized Lightweight CNN (**IEEE RAAICON 2025; Publisher: IEEE**)](https://raaicon.org/) [*Accepted*]
 - [Hierarchical Vision-Controlled Quadruped Robot for Autonomous Human Detection and Localization in Disaster Response (**IEEE ICCIT 2025; Publisher: IEEE**)](https://iccit.org.bd/2025/) [*Accepted*]
@@ -71,8 +71,9 @@ Apart from these, I love literature, world cinema, songs, and cats.
 - [Sinusoidal Feedforward Gait Generation for a Bipedal Robot](https://github.com/NajeebAhmedBhuiyan/Bipedal-Rehab-Robot)
 
 
-### Legged Robot
+### Rehabilation & Legged Robot
 - [Quadruped Robot with Vision-Based Navigation and Control](https://github.com/NajeebAhmedBhuiyan/Legged-Robot-Arduino-Codes)
+- [Lower Limb Platform-based Bipedal Exoskeleton in ROS2 Jazzy](https://github.com/NajeebAhmedBhuiyan/Bipedal-Rehab-Robot)
 
 ### Robotic Vision & Depth Perception
 - [*[Work-In-Progress]* EdgeDepth: A super-compact object detector and depth estimator for MCUs](https://github.com/NajeebAhmedBhuiyan/EdgeDepth-Model)
