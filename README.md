@@ -24,7 +24,7 @@ Apart from these, I love literature, world cinema, songs, and cats.
 - **Softwares:** MATLAB/Simulink, Proteus, AutoCAD.  
 
 ## Education
-- B.Sc.Engg., Mechatronics Engineering | CGPA: 3.73/4.00 (First Class, 6th, & Vice-Chancellor's List Award) | Rajshahi University of Engineering & Technology (RUET) (_2020 - 2025_)								       		
+- B.Sc.Engg., Mechatronics Engineering | CGPA: 3.73/4.00 (First Class, 6th position) | Rajshahi University of Engineering & Technology (RUET) (_2020 - 2025_)								       		
 - Higher Secondary School Certificate (HSC) Examination, Science | GPA: 5.00/5.00 (Dhaka Board Scholarship) | Notre Dame College, Dhaka (_2017 - 2019_)	 			        		
 
 ## Work Experience
