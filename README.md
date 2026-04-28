@@ -58,7 +58,6 @@ Apart from these, I love literature, world cinema, songs, and cats.
 ### Papers
 - [A Bimanual Gesture Interface for ROS-Based Mobile Manipulators Using TinyML and Sensor Fusion (**Publisher: arXiv**)](https://arxiv.org/abs/2509.19521) 
 - [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**IEEE PEEAICON 2024; Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122)
-- [A Comprehensive Review of Hardware and Software Optimization Strategies for Efficient Mobile Computing (**Journal: Pervasive and Mobile Computing; Publisher: Elsevier**)](https://drive.google.com/file/d/1HqdBoVVo52kXsEYI7Ao-Ae08qXM8ifu-/view?usp=sharing) [*Under Review*]
 - [Advances in Control Strategies for Rehabilitation Robotics: Methodologies, Clinical Trends, and Case Study (**Journal: International Journal of Intelligent Robotics and Applications; Publisher: Springer Nature**)](https://drive.google.com/file/d/1gCIUF8LEcvPYqMvPNoTaiO1oFkKb9nAS/view?usp=sharing) [*Submitted*]
 - [Voice-Driven Teleoperation of Wheelchair-Mounted Robotic Arms Using MFCC and a Quantized Lightweight CNN (**IEEE RAAICON 2025; Publisher: IEEE**)](https://drive.google.com/file/d/1sBmweb8WXvcLgYpVRDCVFi5oT9olmro9/view?usp=sharing) [*Accepted*]
 - [Hierarchical Vision-Controlled Quadruped Robot for Autonomous Human Detection and Localization in Disaster Response (**IEEE ICCIT 2025; Publisher: IEEE**)](https://drive.google.com/file/d/1TfoMtc-Vyysvlpq_XcPWJgIDtaV3kIs_/view?usp=sharing) [*Accepted*]
