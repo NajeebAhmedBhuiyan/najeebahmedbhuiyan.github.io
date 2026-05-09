@@ -40,7 +40,7 @@ Apart from these, I love literature, world cinema, songs, and cats.
 
 
 ## Papers
-- [A Bimanual Gesture Interface for ROS-Based Mobile Manipulators Using TinyML and Sensor Fusion (**Publisher: arXiv**)](https://arxiv.org/abs/2509.19521) 
+- [A Bimanual Gesture Interface for ROS-Based Mobile Manipulators Using TinyML and Sensor Fusion (**Pre-print: arXiv**)](https://arxiv.org/abs/2509.19521) 
 - [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**IEEE PEEAICON 2024; Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122)
 - [Voice-Driven Teleoperation of Wheelchair-Mounted Robotic Arms Using MFCC and a Quantized Lightweight CNN (**IEEE RAAICON 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11502251)
 - [Hierarchical Vision-Controlled Quadruped Robot for Autonomous Human Detection and Localization in Disaster Response (**IEEE ICCIT 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11491754) 
