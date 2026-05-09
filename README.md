@@ -25,8 +25,30 @@ Apart from these, I love literature, world cinema, songs, and cats.
 ## Education
 - B.Sc.Engg., Mechatronics Engineering | CGPA: 3.73/4.00 (First Class, 6th position) | Rajshahi University of Engineering & Technology (RUET) (_2020 - 2025_)								       		
 - Higher Secondary School Certificate (HSC) Examination, Science | GPA: 5.00/5.00 (Dhaka Board Scholarship) | Notre Dame College, Dhaka (_2017 - 2019_)	 			        		
+- Secondary School Certificate (SSC) Examination, Science | GPA: 5.00/5.00 | BIAM Model School & College, Dhaka (_2015 - 2017_)
 
 ## Work Experience
+**Research Assitant, Independent University, Bangladesh (IUB) (_March 2024 - Present_)**
+- Working on the funded project, "Data Intensive Urban Ecosystem, Infrastructure and Environment Management in Bangladesh: ML integrated Drone Applications"
+- Areas of work: Drone-based imaging, ML/DL, Computer Vision
+
+**Internship Trainee @ PRAN-RFL Group (_March 2023 - April 2023_)**
+- Completed a four-week industrial training program at RFL Electronics Ltd. (Vision Electronics).
+- Learned about cutting-edge machinery and technologies used in the production of electronic items such as televisions, refrigerators, air conditioners, and phones.
+- Observed the rapid evolution of underlying technologies in electronic product manufacturing.
+- Gained valuable insights into industrial work procedures and job approaches.
+
+
+## Papers
+- [A Bimanual Gesture Interface for ROS-Based Mobile Manipulators Using TinyML and Sensor Fusion (**Publisher: arXiv**)](https://arxiv.org/abs/2509.19521) 
+- [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**IEEE PEEAICON 2024; Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122)
+- [Voice-Driven Teleoperation of Wheelchair-Mounted Robotic Arms Using MFCC and a Quantized Lightweight CNN (**IEEE RAAICON 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11502251)
+- [Hierarchical Vision-Controlled Quadruped Robot for Autonomous Human Detection and Localization in Disaster Response (**IEEE ICCIT 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11491754) 
+- [Remote Teleoperation of an Anthropomorphic Robotic Hand with Cloud-Enabled Wearable Sensing and Lightweight MLP (**IEEE BECITHCON 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11504205)
+- [Advances in Control Strategies for Rehabilitation Robotics: Methodologies, Clinical Trends, and Case Study (**Journal: 
+Journal of Bioscience and Bioengineering; Publisher: Elsevier**)](https://www.sciencedirect.com/journal/journal-of-bioscience-and-bioengineering) [*Submitted*]
+
+## Leadership Roles
 **Lead, Software & Autonomous Sub-Team, Team Ogrodoot -অগ্রদূত (_September 2024 - July 2025_)**
 - Leading the software and autonomous works for the team.
 - Works include mostly preparing the Mars Rover of the team for the autonomous tasks.
@@ -54,15 +76,8 @@ Apart from these, I love literature, world cinema, songs, and cats.
 - Managed the Website and all the Social Media handles of TEDxRUET
 - Worked with the speakers during the Main Event. 
 
-## Papers & Projects 
-### Papers
-- [A Bimanual Gesture Interface for ROS-Based Mobile Manipulators Using TinyML and Sensor Fusion (**Publisher: arXiv**)](https://arxiv.org/abs/2509.19521) 
-- [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**IEEE PEEAICON 2024; Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122)
-- [Advances in Control Strategies for Rehabilitation Robotics: Methodologies, Clinical Trends, and Case Study (**Journal: International Journal of Intelligent Robotics and Applications; Publisher: Springer Nature**)](https://drive.google.com/file/d/1gCIUF8LEcvPYqMvPNoTaiO1oFkKb9nAS/view?usp=sharing) [*Submitted*]
-- [Voice-Driven Teleoperation of Wheelchair-Mounted Robotic Arms Using MFCC and a Quantized Lightweight CNN (**IEEE RAAICON 2025; Publisher: IEEE**)](https://drive.google.com/file/d/1sBmweb8WXvcLgYpVRDCVFi5oT9olmro9/view?usp=sharing) [*Accepted*]
-- [Hierarchical Vision-Controlled Quadruped Robot for Autonomous Human Detection and Localization in Disaster Response (**IEEE ICCIT 2025; Publisher: IEEE**)](https://drive.google.com/file/d/1TfoMtc-Vyysvlpq_XcPWJgIDtaV3kIs_/view?usp=sharing) [*Accepted*]
-- [Remote Teleoperation of an Anthropomorphic Robotic Hand with Cloud-Enabled Wearable Sensing and Lightweight MLP (**IEEE BECITHCON 2025; Publisher: IEEE**)](https://drive.google.com/file/d/1rP_IObe3kCe6ypaozUpKqTumxrujJS7L/view?usp=sharing) [*Accepted*]
 
+## Technical Projects
 ### ROS & TinyML
 - [Gesture-Based Manipulator Control in ROS with TinyML](https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Manipulator-Control-in-ROS-with-TinyML) | [LinkedIn Post](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-tinyml-ros2-activity-7313981830523715584-blI4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g)
 - [Gesture Based Mobile Robot Control in ROS](https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Mobile-Robot-Control-in-ROS) | [LinkedIn Post](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-ros2-sensorfusion-activity-7313978474568810496-6vjQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g)
