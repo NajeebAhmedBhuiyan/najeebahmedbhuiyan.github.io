@@ -52,7 +52,7 @@ Apart from all these, I love literature, world cinema, songs, and cats.
 - [Hierarchical Vision-Controlled Quadruped Robot for Autonomous Human Detection and Localization in Disaster Response (**IEEE ICCIT 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11491754) 
 - [Remote Teleoperation of an Anthropomorphic Robotic Hand with Cloud-Enabled Wearable Sensing and Lightweight MLP (**IEEE BECITHCON 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11504205)
 - [Advances in Control Strategies for Rehabilitation Robotics: Methodologies, Clinical Trends, and Case Study (**Journal: 
-Journal of Bioscience and Bioengineering; Publisher: Elsevier**)](https://www.sciencedirect.com/journal/journal-of-bioscience-and-bioengineering) [*Submitted*]
+Healthcare and Rehabilitation; Publisher: Elsevier**)](https://www.sciencedirect.com/journal/healthcare-and-rehabilitation) [*Submitted*]
 
 ## Leadership Roles
 **Lead, Software & Autonomous Sub-Team, Team Ogrodoot -অগ্রদূত (_September 2024 - July 2025_)**
