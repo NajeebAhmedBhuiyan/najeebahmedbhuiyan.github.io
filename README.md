@@ -34,7 +34,7 @@ Apart from all these, I love literature, world cinema, songs, and cats.
 - Mentoring students in hardware-software integration, ROS2, and TinyML-based project development.
 - Contributing to departmental research initiatives and curriculum enhancement within the Mechatronics and AI domains.
 
-**Research Assitant, Independent University, Bangladesh (IUB) (_March 2024 - Present_)**
+**Research Assitant, Independent University, Bangladesh (IUB) (_March 2026 - May 2026_)**
 - Working on the funded project, "Data Intensive Urban Ecosystem, Infrastructure and Environment Management in Bangladesh: ML integrated Drone Applications"
 - Areas of work: Drone-based imaging, ML/DL, Computer Vision
 
