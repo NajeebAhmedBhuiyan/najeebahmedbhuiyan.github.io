@@ -28,8 +28,7 @@ Apart from all these, I love literature, world cinema, songs, and cats.
 - Secondary School Certificate (SSC) Examination, Science | GPA: 5.00/5.00 | BIAM Model School & College, Dhaka (_2015 - 2017_)
 
 ## Work Experience
-**Lecturer (Full-time), Department of Computer Science & Engineering (CSE)**  
-**[Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)** | (_May 2026 – Present_)  
+**Lecturer (Full-time), Department of Computer Science & Engineering (CSE), [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/) (_May 2026 – Present_)**
 - Facilitating core undergraduate courses including **Robotics** and **Embedded Systems**.
 - Mentoring students in hardware-software integration, ROS2, and TinyML-based project development.
 - Contributing to departmental research initiatives and curriculum enhancement within the Mechatronics and AI domains.
