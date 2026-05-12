@@ -1,14 +1,14 @@
-# Mechatronics Engineer | HCR, Computer Vision & Edge-AI Researcher
-I am currently a Researcher at [Independent University, Bangladesh (IUB)](https://iub.ac.bd/). I hold a B.Sc. in Mechatronics Engineering from Rajshahi University of Engineering & Technology (RUET), Bangladesh, and deeply passionate about [Human-Centered Robotics (HCR)](https://www.colorado.edu/program/robotics/research/human-centered-robotics), [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) and [Edge-AI](https://www.ibm.com/think/topics/edge-ai). 
+# Lecturer in CSE at DIU | HCR & Edge-AI Researcher
+I am currently a Lecturer in the Department of [Computer Science and Engineering (CSE)](https://daffodilvarsity.edu.bd/department/cse) at [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/) where I teach courses on Robotics and Embedded Systems. Previously, I served as a Researcher at Independent University, Bangladesh (IUB). I hold a B.Sc. in Mechatronics Engineering from Rajshahi University of Engineering & Technology (RUET), Bangladesh, and deeply passionate about [Human-Centered Robotics (HCR)](https://www.colorado.edu/program/robotics/research/human-centered-robotics), [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) and [Edge-AI](https://www.ibm.com/think/topics/edge-ai). 
 
-My research spans embedded gesture and voice recognition for teleoperation, lightweight vision models for edge devices, autonomous navigation in rovers and quadrupeds, and applications in rehabilitation robotics and disaster response. I've authored/co-authored papers in venues like IEEE conferences, Elsevier journals, and arXiv (submitted/accepted).
+My research portfolio focuses on embedded gesture and voice recognition for teleoperation, lightweight vision models for edge devices, and autonomous navigation for rovers and quadrupeds. I am particularly interested in the intersection of these technologies within rehabilitation robotics and disaster response. To date, I have authored and co-authored papers in prestigious venues including IEEE conferences and Elsevier journals.
 
 For my undergrad thesis, I developed a bimanual gesture interface for a ROS-based mobile manipulator, integrating TinyML and sensor fusion to enhance human-robot interaction. This work was done in collaboration with [Professor Rahul Mangharam](https://www.seas.upenn.edu/~rahulm/) from the [University of Pennsylvania](https://www.upenn.edu/), resulting in our co-authored paper on [arXiv](https://arxiv.org/abs/2509.19521) currently. Moreover, this work got included in [ROS News of the Week](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_ros2-robotics-gesturecontrol-activity-7316816763814395904-A5pv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g), and was reposted by [Open Robotics on LinkedIn](https://www.linkedin.com/posts/najeeb-ahmed-bhuiyan-456048221_robotics-ros2-ros-ugcPost-7313978392318554113-9TOL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADe2jIIBNAwFxu-ANLvx_myszeAQmkkef1g). 
 
 
 I also served as the [Software & Autonomous Sub-Team Lead](https://www.facebook.com/share/p/192aWFTc1S/) for [Team Ogrodoot](https://www.facebook.com/ogrodoot.ruet), RUET’s Mars Rover Team, where I oversaw the control and autonomous systems of our rover. Our team qualified for the [IRC 2025 finals](https://www.dhakapost.com/campus/325313) and the [IRDC 2025 semifinals](https://www.facebook.com/share/p/16P7kMC7jk/). At the Robotic Society of RUET (RSR), I held roles as Technical Secretary (Software) and IT Manager.
 
-Apart from these, I love literature, world cinema, songs, and cats.
+Apart from all these, I love literature, world cinema, songs, and cats.
 
 ## Stay Connected:  
 [CV](https://drive.google.com/file/d/1oacVDn4JcgGg3haZlyMK87rL2gX4Rv04/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/najeeb-ahmed-bhuiyan-456048221/) | [Google Scholar](https://scholar.google.com/citations?user=1iClFREAAAAJ&hl=en&oi=ao) | [GitHub](https://github.com/NajeebAhmedBhuiyan) | [Kaggle](https://www.kaggle.com/najeebahmadbhuiyan) | [Blog](http://quareeb.blogspot.com/) 
@@ -28,6 +28,12 @@ Apart from these, I love literature, world cinema, songs, and cats.
 - Secondary School Certificate (SSC) Examination, Science | GPA: 5.00/5.00 | BIAM Model School & College, Dhaka (_2015 - 2017_)
 
 ## Work Experience
+**Lecturer (Full-time), Department of Computer Science & Engineering (CSE)**  
+**[Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)** | (_May 2026 – Present_)  
+- Facilitating core undergraduate courses including **Robotics** and **Embedded Systems**.
+- Mentoring students in hardware-software integration, ROS2, and TinyML-based project development.
+- Contributing to departmental research initiatives and curriculum enhancement within the Mechatronics and AI domains.
+
 **Research Assitant, Independent University, Bangladesh (IUB) (_March 2024 - Present_)**
 - Working on the funded project, "Data Intensive Urban Ecosystem, Infrastructure and Environment Management in Bangladesh: ML integrated Drone Applications"
 - Areas of work: Drone-based imaging, ML/DL, Computer Vision
