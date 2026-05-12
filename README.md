@@ -33,11 +33,11 @@ Apart from all these, I love literature, world cinema, songs, and cats.
 - Mentoring students in hardware-software integration, ROS2, and TinyML-based project development.
 - Contributing to departmental research initiatives and curriculum enhancement within the Mechatronics and AI domains.
 
-**Research Assitant, Independent University, Bangladesh (IUB) (_March 2026 - May 2026_)**
+**Research Assitant, [Independent University, Bangladesh (IUB)](https://iub.ac.bd/) (_March 2026 - May 2026_)**
 - Working on the funded project, "Data Intensive Urban Ecosystem, Infrastructure and Environment Management in Bangladesh: ML integrated Drone Applications"
 - Areas of work: Drone-based imaging, ML/DL, Computer Vision
 
-**Internship Trainee @ PRAN-RFL Group (_March 2023 - April 2023_)**
+**Internship Trainee @ [PRAN-RFL Group](https://en.wikipedia.org/wiki/PRAN-RFL_Group) (_March 2023 - April 2023_)**
 - Completed a four-week industrial training program at RFL Electronics Ltd. (Vision Electronics).
 - Learned about cutting-edge machinery and technologies used in the production of electronic items such as televisions, refrigerators, air conditioners, and phones.
 - Observed the rapid evolution of underlying technologies in electronic product manufacturing.
