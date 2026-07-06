@@ -1,5 +1,5 @@
 # Lecturer in CSE at DIU | HCR & Edge-AI Researcher
-I am currently a Lecturer in the Department of [Computer Science and Engineering (CSE)](https://daffodilvarsity.edu.bd/department/cse) at [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/) where I teach courses on Robotics and Embedded Systems. Previously, I served as a Researcher at Independent University, Bangladesh (IUB). I hold a B.Sc. in Mechatronics Engineering from Rajshahi University of Engineering & Technology (RUET), Bangladesh, and deeply passionate about [Human-Centered Robotics (HCR)](https://www.colorado.edu/program/robotics/research/human-centered-robotics), [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) and [Edge-AI](https://www.ibm.com/think/topics/edge-ai). 
+I am currently a [Lecturer](https://faculty.daffodilvarsity.edu.bd/profile/cse/najeeb.html) in the Department of [Computer Science and Engineering (CSE)](https://daffodilvarsity.edu.bd/department/cse) at [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/) where I teach courses on Robotics and Embedded Systems. Previously, I served as a Researcher at Independent University, Bangladesh (IUB). I hold a B.Sc. in Mechatronics Engineering from Rajshahi University of Engineering & Technology (RUET), Bangladesh, and deeply passionate about [Human-Centered Robotics (HCR)](https://www.colorado.edu/program/robotics/research/human-centered-robotics), [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) and [Edge-AI](https://www.ibm.com/think/topics/edge-ai). 
 
 My research portfolio focuses on embedded gesture and voice recognition for teleoperation, lightweight vision models for edge devices, and autonomous navigation for rovers and quadrupeds. I am particularly interested in the intersection of these technologies within rehabilitation robotics and disaster response. To date, I have authored and co-authored papers in prestigious venues including IEEE conferences and Elsevier journals.
 
@@ -51,7 +51,7 @@ Apart from all these, I love literature, world cinema, songs, and cats.
 - [Hierarchical Vision-Controlled Quadruped Robot for Autonomous Human Detection and Localization in Disaster Response (**IEEE ICCIT 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11491754) 
 - [Remote Teleoperation of an Anthropomorphic Robotic Hand with Cloud-Enabled Wearable Sensing and Lightweight MLP (**IEEE BECITHCON 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11504205)
 - [Advances in Control Strategies for Rehabilitation Robotics: Methodologies, Clinical Trends, and Case Study (**Journal: 
-Healthcare and Rehabilitation; Publisher: Elsevier**)](https://www.sciencedirect.com/journal/healthcare-and-rehabilitation) [*Submitted*]
+Next Bioengineering; Publisher: Elsevier**)](https://www.sciencedirect.com/journal/next-bioengineering) [*Under Review*]
 
 ## Leadership Roles
 **Lead, Software & Autonomous Sub-Team, Team Ogrodoot -অগ্রদূত (_September 2024 - July 2025_)**
