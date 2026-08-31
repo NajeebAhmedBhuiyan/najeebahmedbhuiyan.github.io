@@ -47,11 +47,12 @@ Apart from all these, I love literature, world cinema, songs, and cats.
 ## Papers
 - [A Bimanual Gesture Interface for ROS-Based Mobile Manipulators Using TinyML and Sensor Fusion (**Pre-print: arXiv**)](https://arxiv.org/abs/2509.19521) 
 - [Design and Implementation of a Multiple Sensors Based Affordable Autonomous Firefighting Robot for Fire Management (**IEEE PEEAICON 2024; Publisher: IEEE**)](https://ieeexplore.ieee.org/abstract/document/10800122)
+- [Advances in Control Strategies for Rehabilitation Robotics: Methodologies, Clinical Trends, and Case Study (**Journal: 
+Next Research; Publisher: Elsevier**)]([https://www.sciencedirect.com/journal/next-bioengineering](https://www.sciencedirect.com/science/article/abs/pii/S3050475926010286)) 
 - [Voice-Driven Teleoperation of Wheelchair-Mounted Robotic Arms Using MFCC and a Quantized Lightweight CNN (**IEEE RAAICON 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11502251)
 - [Hierarchical Vision-Controlled Quadruped Robot for Autonomous Human Detection and Localization in Disaster Response (**IEEE ICCIT 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11491754) 
 - [Remote Teleoperation of an Anthropomorphic Robotic Hand with Cloud-Enabled Wearable Sensing and Lightweight MLP (**IEEE BECITHCON 2025; Publisher: IEEE**)](https://ieeexplore.ieee.org/document/11504205)
-- [Advances in Control Strategies for Rehabilitation Robotics: Methodologies, Clinical Trends, and Case Study (**Journal: 
-Next Bioengineering; Publisher: Elsevier**)](https://www.sciencedirect.com/journal/next-bioengineering) [*Under Review*]
+
 
 ## Leadership Roles
 **Lead, Software & Autonomous Sub-Team, Team Ogrodoot -অগ্রদূত (_September 2024 - July 2025_)**
