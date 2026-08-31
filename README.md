@@ -60,7 +60,7 @@ Next Research; Publisher: Elsevier**)](https://www.sciencedirect.com/science/art
 - Leading the software and autonomous works for the team.
 - Works include mostly preparing the Mars Rover of the team for the autonomous tasks.
 - Contribution in leading the team into the final round of IRC'25 and semifinal round of IRDC'25!
-- Preparing for the upcoming ERC'25 and ARC'25.
+  
 
 **Technical Secretary (Software) @ Robotic Society of RUET (RSR) (_May 2024 - July 2025_)**
 - Working on the Mars Rover by Team Ogrodoot, which is a group of space enthusiasts undergraduate students from RUET and a wing of RSR.
